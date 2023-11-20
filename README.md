@@ -26,6 +26,9 @@ weather api
 SimpleJSON
 3D assets
 
+![image](https://github.com/20BCS4480/AR-Weather-App/assets/99708962/4d359e96-dbcc-49b6-847c-3d9a9542353c)
+
+
 **TODO**
 
 use wind direction to change rotation direction
