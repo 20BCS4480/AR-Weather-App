@@ -32,3 +32,6 @@ SimpleJSON
 use wind direction to change rotation direction
 use temperature data
 use rain data to add some particle on screen
+
+![WhatsApp Image 2023-11-20 at 12 25 55 PM](https://github.com/20BCS4480/AR-Weather-App/assets/99708962/cb47d778-e78e-49a1-a53f-afb0580eb38a)
+
