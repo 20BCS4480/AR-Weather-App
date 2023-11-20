@@ -1,4 +1,4 @@
-# AR-Weather: Weather Forecasting and
+# AR-Weather: Weather Forecasting
 Visualization using Augmented Reality
 Augmented Reality
 
