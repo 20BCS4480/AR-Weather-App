@@ -33,5 +33,22 @@ use wind direction to change rotation direction
 use temperature data
 use rain data to add some particle on screen
 
-![WhatsApp Image 2023-11-20 at 12 25 55 PM](https://github.com/20BCS4480/AR-Weather-App/assets/99708962/cb47d778-e78e-49a1-a53f-afb0580eb38a)
 
+![WhatsApp Image 2023-11-20 at 12 25 55 PM](https://github.com/20BCS4480/AR-Weather-App/assets/99708962/f0bda958-3ba7-4be8-9f5d-dade859940f0)
+
+
+![WhatsApp Image 2023-11-20 at 12 25 54 PM](https://github.com/20BCS4480/AR-Weather-App/assets/99708962/79d32237-6d16-41c9-84ed-f97afb756114)
+
+
+
+![WhatsApp Image 2023-11-20 at 12 23 17 PM](https://github.com/20BCS4480/AR-Weather-App/assets/99708962/a4e9a155-da18-4354-a65d-c57770bb229e)
+
+
+![WhatsApp Image 2023-11-20 at 12 20 14 PM](https://github.com/20BCS4480/AR-Weather-App/assets/99708962/a628ae5f-6e65-4379-a617-fabcae6d528b)
+
+
+![WhatsApp Image 2023-11-20 at 12 20 13 PM (1)](https://github.com/20BCS4480/AR-Weather-App/assets/99708962/223261f7-bc9a-45a7-b70e-a2aeec071c4e)
+
+
+
+![WhatsApp Image 2023-11-20 at 12 20 13 PM](https://github.com/20BCS4480/AR-Weather-App/assets/99708962/c653a77f-301b-4e95-ac6f-3ec351a9a064)
