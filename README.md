@@ -1,4 +1,5 @@
-# AR-Weather-App
+# AR-Weather: Weather Forecasting and
+Visualization using Augmented Reality
 Augmented Reality
 
 **Features**
